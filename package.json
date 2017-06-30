@@ -76,7 +76,7 @@
     "@types/mocha": "^2.2.41",
     "@types/node": "^7.0.22",
     "mocha": "^3.4.2",
-    "typescript": "^2.3.3",
+    "typescript": "^2.4.1",
     "vscode": "^1.1.0"
   },
   "dependencies": {
